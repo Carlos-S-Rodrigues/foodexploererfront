@@ -1,0 +1,1 @@
+export const responsiveWidth = (size, width = 1440) => `${(size / width) * 100}vw`;
