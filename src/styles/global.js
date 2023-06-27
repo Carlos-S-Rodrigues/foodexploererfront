@@ -14,7 +14,7 @@ export default createGlobalStyle`
   }
 
   body {
-    width: 100&;
+    width: 100vw;
     font-size: 16px;
 
     color: ${({ theme }) => theme.COLORS.GRAY_100};
